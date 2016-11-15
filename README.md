@@ -1,2 +1,3 @@
 # serve
-ultra simple golang file webserver
+ultra simple file server built in go.
+
